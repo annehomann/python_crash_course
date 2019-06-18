@@ -1,11 +1,12 @@
-""" name = "ava lovelace"
+name = "ava lovelace"
 print(name.title())
 
 name = "ava lovelace"
 print(name.upper())
 
 name = "AVA LOVELACE"
-print(name.lower()) """
+name.lower()
+print(name)
 
 first_name = "ada"
 last_name = "lovelace"
@@ -22,4 +23,4 @@ my_list = "Languages:\nPython\nJavascript\nC"
 print(my_list)
 
 space_test = "Ha Ha    "
-print(space_test)
+print(space_test) 
