@@ -20,7 +20,7 @@ print(squares)
 
 
 # USING LIST COMPREHENSION
-squares = [value**2 for value in range(1,11)]
+squares = [value**2 for value in range(1,11)] # no semicolon needed
 print(squares)
 
 
